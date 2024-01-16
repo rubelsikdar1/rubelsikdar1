@@ -50,4 +50,6 @@ Let's collaborate and bring your ideas to life! 🚀
 
 <a href="https://app.daily.dev/rubelsikdar"><img src="https://api.daily.dev/devcards/02e1fa9790624ceda36ce47bebcf70ee.png?r=3dc" width="400" alt="Rubel sikdar's Dev Card"/></a>
 
+![](https://komarev.com/ghpvc/?username=rubelsikdar1&color=green)
+
 
