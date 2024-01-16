@@ -44,3 +44,4 @@ Let's collaborate and bring your ideas to life! 🚀
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubelsikdar1&show_icons=true&bg_color=00000000)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rubelsikdar1)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rubelsikdar1ame&show_icons=true&count_private=true) 
