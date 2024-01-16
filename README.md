@@ -42,9 +42,10 @@ Feel free to reach out:
 
 Let's collaborate and bring your ideas to life! 🚀
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubelsikdar1&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rubelsikdar1)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rubelsikdar1&show_icons=true&count_private=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubelsikdar1&hide=contribs,prs)
+
