@@ -1,4 +1,4 @@
-<a href="https://ibb.co/zm1qNvN"><img src="https://i.ibb.co/yNDHVjV/Personal-Linked-In-Banner.png" alt="Personal-Linked-In-Banner" border="0"></a>
+<a href="https://ibb.co/zm1qNvN"><img src="https://i.ibb.co/yNDHVjV/Personal-Linked-In-Banner.png" alt="Personal-Linked-In-Banner" border="0" style="width:100%;"></a>
 
 # Hi there, I'm Rubel Sikdar 👋
 
