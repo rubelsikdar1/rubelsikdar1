@@ -48,4 +48,6 @@ Let's collaborate and bring your ideas to life! 🚀
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rubelsikdar1&show_icons=true&count_private=true)
 
+<a href="https://app.daily.dev/rubelsikdar"><img src="https://api.daily.dev/devcards/02e1fa9790624ceda36ce47bebcf70ee.png?r=3dc" width="400" alt="Rubel sikdar's Dev Card"/></a>
+
 
