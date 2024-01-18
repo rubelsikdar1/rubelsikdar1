@@ -16,15 +16,15 @@ I'm a results-driven front-end developer focusing on creating seamless user expe
 Here are a few noteworthy projects that showcase my expertise:
 
 1. **[Peresonal Website](https://rubelsikdare.vercel.app/):**
-   - Brief description of the project.
-   - Technologies used: React JS, Tailwind CSS.
+   - This is my personal Website.
+   - Technologies used: React JS, Row CSS, 
 
-2. **[Project Name](Link to Project):**
+2. **[Project One Todo App](https://my-todo-app-dun-two.vercel.app/):**
    - Brief description of the project.
-   - Technologies used: HTML, CSS, JavaScript.
+   - Technologies used: React JS, chakra UI,
 
-3. **[Project Name](Link to Project):**
-   - Brief description of the project.
+3. **[Upcoming](Link to Project):**
+   - This is my protfilio.
    - Technologies used: React JS, Bootstrap.
 
 ## 📫 Contact
@@ -38,7 +38,7 @@ Feel free to reach out:
 
 - [LinkedIn](www.linkedin.com/in/rubelsikdar000)
 - [Twitter](Your Twitter Profile Link)
-- [Portfolio](Link to your Portfolio/Personal Website)
+- [Portfolio](https://rubelsikdare.vercel.app/)
 
 Let's collaborate and bring your ideas to life! 🚀
 
